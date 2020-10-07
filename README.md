@@ -9,8 +9,8 @@ Welcome To my github Profile :)
 - 🎵 I like Listening music
 - 😄 I like about tech and still learning about programming
 - 📫 How to reach me:\
- <img src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png" width="25px">**Twitter  :** [@Amroslayer](https://twitter.com/amroslayer)\
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" width="25px">**Telegram :** [t.me/Amroslayer](https://t.me/amroslayer)
+ <img src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png" width="17px">**Twitter  :** [@Amroslayer](https://twitter.com/amroslayer)\
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" width="17px">**Telegram :** [t.me/Amroslayer](https://t.me/amroslayer)
 - ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
 <p align="center">
