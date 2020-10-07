@@ -6,8 +6,11 @@ Welcome To my github Profile :)
 
 - 🔭 I’m currently working on home
 - 💬 Ask me about something
+- 🎵 I like Listening music
 - 😄 I like about tech and still learning about programming
-- 📫 How to reach me: [@Amroslayer](https://twitter.com/amroslayer)
+- 📫 How to reach me: 
+  Twitter  : [@Amroslayer](https://twitter.com/amroslayer)
+  Telegram : [t.me/Amroslayer](https://t.me/amroslayer)
 - ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
 <p align="center">
